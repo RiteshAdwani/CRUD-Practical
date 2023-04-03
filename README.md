@@ -2,6 +2,7 @@
 - This is a Product Management Web Application, which demonstrates CRUD operations with the help of local storage and vanilla javascript.
 - We can add product details like product id, name, description, price and image.
 - We can also view, update and delete the data stored.
+- Live demonstration: [Product Management System](https://riteshadwani.github.io/CRUD-Practical/)
 
 **********
 ## Tech Stack
